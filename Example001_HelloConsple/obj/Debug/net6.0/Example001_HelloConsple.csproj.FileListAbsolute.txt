@@ -1,0 +1,15 @@
+/Users/stanislav.neshik/Desktop/Examples/Example001_HelloConsple/bin/Debug/net6.0/Example001_HelloConsple
+/Users/stanislav.neshik/Desktop/Examples/Example001_HelloConsple/bin/Debug/net6.0/Example001_HelloConsple.deps.json
+/Users/stanislav.neshik/Desktop/Examples/Example001_HelloConsple/bin/Debug/net6.0/Example001_HelloConsple.runtimeconfig.json
+/Users/stanislav.neshik/Desktop/Examples/Example001_HelloConsple/bin/Debug/net6.0/Example001_HelloConsple.dll
+/Users/stanislav.neshik/Desktop/Examples/Example001_HelloConsple/bin/Debug/net6.0/Example001_HelloConsple.pdb
+/Users/stanislav.neshik/Desktop/Examples/Example001_HelloConsple/obj/Debug/net6.0/Example001_HelloConsple.csproj.AssemblyReference.cache
+/Users/stanislav.neshik/Desktop/Examples/Example001_HelloConsple/obj/Debug/net6.0/Example001_HelloConsple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislav.neshik/Desktop/Examples/Example001_HelloConsple/obj/Debug/net6.0/Example001_HelloConsple.AssemblyInfoInputs.cache
+/Users/stanislav.neshik/Desktop/Examples/Example001_HelloConsple/obj/Debug/net6.0/Example001_HelloConsple.AssemblyInfo.cs
+/Users/stanislav.neshik/Desktop/Examples/Example001_HelloConsple/obj/Debug/net6.0/Example001_HelloConsple.csproj.CoreCompileInputs.cache
+/Users/stanislav.neshik/Desktop/Examples/Example001_HelloConsple/obj/Debug/net6.0/Example001_HelloConsple.dll
+/Users/stanislav.neshik/Desktop/Examples/Example001_HelloConsple/obj/Debug/net6.0/refint/Example001_HelloConsple.dll
+/Users/stanislav.neshik/Desktop/Examples/Example001_HelloConsple/obj/Debug/net6.0/Example001_HelloConsple.pdb
+/Users/stanislav.neshik/Desktop/Examples/Example001_HelloConsple/obj/Debug/net6.0/Example001_HelloConsple.genruntimeconfig.cache
+/Users/stanislav.neshik/Desktop/Examples/Example001_HelloConsple/obj/Debug/net6.0/ref/Example001_HelloConsple.dll
